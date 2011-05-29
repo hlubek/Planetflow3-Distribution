@@ -7,7 +7,13 @@
 # Please refer to the FLOW3 manual for possible configuration options.   #
 #                                                                        #
 
-# $Id$
+
+-
+  name: 'Planetflow3'
+  uriPattern: '<Planetflow3Subroutes>'
+  subRoutes:
+    Planetflow3Subroutes:
+      package: Planetflow3
 
 ##
 # Subroutes from the Welcome package.
