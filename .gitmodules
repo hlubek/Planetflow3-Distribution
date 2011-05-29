@@ -22,3 +22,6 @@
 [submodule "Build/Common"]
 	path = Build/Common
 	url = git://git.typo3.org/FLOW3/BuildEssentials.git
+[submodule "Packages/Application/Planetflow3"]
+	path = Packages/Application/Planetflow3
+	url = git://github.com/chlu/Planetflow3-Package.git
