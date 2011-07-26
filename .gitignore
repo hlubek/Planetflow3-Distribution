@@ -7,3 +7,7 @@
 /Tests/
 /Web/_Resources/
 nbproject
+Configuration/Settings.yaml
+Build/Deploy/live.php
+Packages/Application/TYPO3.Deploy/
+Packages/Framework/TYPO3.Kickstart/
