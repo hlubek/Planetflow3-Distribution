@@ -15,7 +15,7 @@
 	url = git://github.com/chlu/Planetflow3-Package.git
 [submodule "Packages/Application/Libtextcat"]
 	path = Packages/Application/Libtextcat
-	url = git@github.com:chlu/Libtextcat-Package.git
+	url = git://github.com/chlu/Libtextcat-Package.git
 [submodule "Packages/Framework/Doctrine"]
 	path = Packages/Framework/Doctrine
 	url = git://git.typo3.org/FLOW3/Packages/Doctrine.git
