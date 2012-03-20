@@ -1,0 +1,24 @@
+#                                                                        #
+# Local Settings                                                         #
+#                                                                        #
+# Please refer to the default settings file(s) or the manuals for        #
+# possible configuration options.                                        #
+#                                                                        #
+
+TYPO3:
+  FLOW3:
+    persistence:
+      backendOptions:
+        driver: 'pdo_sqlite'
+        path: ':memory:'
+        username: NULL
+        password: NULL
+
+# If you have APC, you should consider using it for Production,
+# also MemcacheCache and XcacheCache exist.
+#      doctrine:
+#        cacheImplementation: 'Doctrine\Common\Cache\ApcCache'
+
+# On Windows, you might need to uncomment the following line and specify
+# the location of the PHP binary manually.
+#  core:phpBinaryPathAndFilename: 'C:/path/to/php.exe'

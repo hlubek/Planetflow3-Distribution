@@ -11,6 +11,9 @@
 -
   name: 'Planetflow3'
   uriPattern: '<Planetflow3Subroutes>'
+  defaults:
+    '@package': 'Planetflow3'
+    '@format':  'html'
   subRoutes:
     Planetflow3Subroutes:
       package: Planetflow3
