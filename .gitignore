@@ -6,10 +6,10 @@
 /Data/
 /Tests/
 /Web/_Resources/
-nbproject
-Configuration/Settings.yaml
-Build/Deploy/live.php
-Packages/Application/TYPO3.Deploy/
-Packages/Framework/TYPO3.Kickstart/
-Packages/Application/TYPO3.Surf/
+/nbproject
+/Configuration/Settings.yaml
+/Build/Surf/
+/Packages/Application/TYPO3.Deploy/
+/Packages/Framework/TYPO3.Kickstart/
+/Packages/Application/TYPO3.Surf/
 /Packages/.Shortcuts/
